@@ -1,8 +1,8 @@
 # Educational Image Scraper
 Author
-CletusXavier - CodexLiber
-cletusxavier.2110@protonmail.com
-[Your GitHub Profile (optional)]
+CletusXavier - CodexLiber \n
+cletusxavier.2110@protonmail.com \n
+https://github.com/xcletus3
 
 ## Overview
 This is an educational web scraping script demonstrating how to download images from Google Images while respecting web scraping best practices.
