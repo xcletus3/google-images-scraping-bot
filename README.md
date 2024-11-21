@@ -1,7 +1,7 @@
 # Educational Image Scraper
 Author
-CletusXavier - CodexLiber \n
-cletusxavier.2110@protonmail.com \n
+CletusXavier - CodexLiber |
+cletusxavier.2110@protonmail.com |
 https://github.com/xcletus3
 
 ## Overview
